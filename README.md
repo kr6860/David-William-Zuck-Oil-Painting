@@ -1,1 +1,1 @@
-# david-william-zuck-oil-painting
+# david-william-zuck-oil-paintings
