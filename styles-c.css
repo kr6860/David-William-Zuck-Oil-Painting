@@ -4,7 +4,7 @@ body {
     color: whitesmoke;
     margin: 0;
     padding: 0;
-    font-family: "copperplate gothic", serif;
+    font-family: "georgia", serif;
 }
 
 /* Center headers */
@@ -14,6 +14,7 @@ header, nav {
 
 /* Style headers */
 h1 {
+    font-family: "Copperplate Gothic", serif;
     font-weight: bold;
     font-size: 45px;
     color: whitesmoke;
@@ -21,6 +22,7 @@ h1 {
 }
 
 h2 {
+    font-family: "Copperplate Gothic", serif;
     margin-top: 10px; /* Adjust spacing between h1 and h2 */
     margin-bottom: 35px; /* Adjust spacing between h1 and h2 */
     font-weight: bold;
