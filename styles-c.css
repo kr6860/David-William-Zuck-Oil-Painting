@@ -31,6 +31,7 @@ h2 {
 
 /* Style navigation links */
 nav a {
+    font-family: "Copperplate Gothic", serif;
     margin: 0 10px; /* Adds spacing between links */
     text-decoration: none; /* Removes underline from links */
     color: #ffffff; /* Set link color */
