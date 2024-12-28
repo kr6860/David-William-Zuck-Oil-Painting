@@ -22,6 +22,7 @@ h1 {
 }
 
 h2 {
+    font-family: "Copperplate Gothic", serif;
     margin-top: 10px; /* Adjust spacing between h1 and h2 */
     margin-bottom: 35px; /* Adjust spacing between h1 and h2 */
     font-weight: bold;
