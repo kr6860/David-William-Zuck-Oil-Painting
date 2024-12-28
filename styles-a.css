@@ -14,6 +14,7 @@ header, nav {
 
 /* Style headers */
 h1 {
+    font-family: "Copperplate Gothic", serif;
     font-weight: bold;
     font-size: 45px;
     color: whitesmoke;
